@@ -12,272 +12,88 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nisda =====
-[1]Nisda       |09:04:54 | 11-10-2026| login OK @nisdamilana | score=830 rank=6935
-[1]Nisda       |09:04:54 | 11-10-2026| serverTime=2026-10-11T09:04:54.000Z local=2026-10-11T09:04:54.932Z
+[1]Nisda       |12:56:23 | 12-10-2026| login OK @nisdamilana | score=880 rank=6993
+[1]Nisda       |12:56:23 | 12-10-2026| serverTime=2026-10-12T12:56:23.000Z local=2026-10-12T12:56:23.783Z
 --> [1]Nisda menjalankan: Claim Daily
-[1]Nisda       |09:04:58 | 11-10-2026| daily: sudah klaim (already=true) score=830
---> [1]Nisda menjalankan: Auto All Tasks (3 pending)
-[1]Nisda       |09:05:01 | 11-10-2026| [1/3] 2b83e3b3 (link) verify GAGAL http=409 resp={"error":"プロフィールでDiscordを連携してください。"}
-[1]Nisda       |09:05:01 | 11-10-2026| delay 10s...
-[1]Nisda       |09:05:18 | 11-10-2026| [2/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109208379360431310
-[1]Nisda       |09:05:18 | 11-10-2026| delay 10s...
-[1]Nisda       |09:05:33 | 11-10-2026| [3/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109208266067822553
-[1]Nisda       |09:05:33 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nisda       |09:05:40 | 11-10-2026| [1/1] 2b83e3b3 (link) verify GAGAL http=409 resp={"error":"プロフィールでDiscordを連携してください。"}
+[1]Nisda       |12:56:25 | 12-10-2026| daily: OK +10 poin score=890
+--> [1]Nisda menjalankan: Auto All Tasks (10 pending)
+[1]Nisda       |12:56:28 | 12-10-2026| [1/10] 2b83e3b3 (link) verify GAGAL http=409 resp={"error":"プロフィールでDiscordを連携してください。"}
+[1]Nisda       |12:56:28 | 12-10-2026| delay 10s...
+[1]Nisda       |12:56:41 | 12-10-2026| [2/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109628973812395359
+[1]Nisda       |12:56:41 | 12-10-2026| delay 10s...
+[1]Nisda       |12:56:53 | 12-10-2026| [3/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109628963582375903
+[1]Nisda       |12:56:53 | 12-10-2026| delay 10s...
+[1]Nisda       |12:57:05 | 12-10-2026| [4/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109628872671661786
+[1]Nisda       |12:57:05 | 12-10-2026| delay 10s...
+[1]Nisda       |12:57:18 | 12-10-2026| [5/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109629103731586349
+[1]Nisda       |12:57:18 | 12-10-2026| delay 10s...
+[1]Nisda       |12:57:30 | 12-10-2026| [6/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Nisda       |12:57:30 | 12-10-2026| delay 10s...
+[1]Nisda       |12:57:42 | 12-10-2026| [7/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109628958834560321
+[1]Nisda       |12:57:42 | 12-10-2026| delay 10s...
+[1]Nisda       |12:57:54 | 12-10-2026| [8/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109629172227193511
+[1]Nisda       |12:57:54 | 12-10-2026| delay 10s...
+[1]Nisda       |12:58:05 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisdamilana/status/2109629222204678468
+[1]Nisda       |12:58:05 | 12-10-2026| delay 10s...
+[1]Nisda       |12:58:19 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Nisda       |12:58:19 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nisda       |12:58:20 | 12-10-2026| [1/1] 2b83e3b3 (link) verify GAGAL http=409 resp={"error":"プロフィールでDiscordを連携してください。"}
 --> [1]Nisda menjalankan: Watch Anime
-[1]Nisda       |09:05:45 | 11-10-2026| watch: 5 video belum completed: smart-pocket-official-trailer,oshi-first-journey,ep1,ep2,ep3
-[1]Nisda       |09:05:45 | 11-10-2026| watch [1/5] farming smart-pocket-official-trailer...
-[1]Nisda       |09:05:45 | 11-10-2026| watch smart-pocket-official-trailer: start GAGAL http=503
-[1]Nisda       |09:05:50 | 11-10-2026| watch [2/5] farming oshi-first-journey...
-[1]Nisda       |09:06:00 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Nisda       |09:06:12 | 11-10-2026| watch oshi-first-journey: 9% (8.34/87.00s)
-[1]Nisda       |09:06:21 | 11-10-2026| watch oshi-first-journey: 19% (16.93/87.00s)
-[1]Nisda       |09:06:28 | 11-10-2026| watch oshi-first-journey: 27% (23.64/87.00s)
-[1]Nisda       |09:06:37 | 11-10-2026| watch oshi-first-journey: 35% (30.70/87.00s)
-[1]Nisda       |09:06:44 | 11-10-2026| watch oshi-first-journey: 44% (38.33/87.00s)
-[1]Nisda       |09:06:50 | 11-10-2026| watch oshi-first-journey: 51% (44.58/87.00s)
-[1]Nisda       |09:06:57 | 11-10-2026| watch oshi-first-journey: 57% (50.26/87.00s)
-[1]Nisda       |09:07:03 | 11-10-2026| watch oshi-first-journey: 64% (56.18/87.00s)
-[1]Nisda       |09:07:17 | 11-10-2026| watch oshi-first-journey: 71% (61.83/87.00s)
-[1]Nisda       |09:07:25 | 11-10-2026| watch oshi-first-journey: 82% (71.41/87.00s)
-[1]Nisda       |09:07:32 | 11-10-2026| watch oshi-first-journey: 90% (78.62/87.00s)
-[1]Nisda       |09:07:32 | 11-10-2026| watch oshi-first-journey: COMPLETED (78.62/87.00s)
-[1]Nisda       |09:07:37 | 11-10-2026| watch [3/5] farming ep1...
-[1]Nisda       |09:07:38 | 11-10-2026| watch ep1: mulai dari 0 (record 194.5s diabaikan)
-[1]Nisda       |09:07:39 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:07:46 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:07:54 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:08:00 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:08:06 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:08:13 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:08:20 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:08:27 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:08:33 | 11-10-2026| watch ep1: 50% (194.49/382.00s)
-[1]Nisda       |09:08:40 | 11-10-2026| watch ep1: 51% (195.13/382.00s)
-[1]Nisda       |09:08:46 | 11-10-2026| watch ep1: 51% (195.13/382.00s)
-[1]Nisda       |09:08:52 | 11-10-2026| watch ep1: 51% (195.13/382.00s)
-[1]Nisda       |09:08:59 | 11-10-2026| watch ep1: 51% (195.13/382.00s)
-[1]Nisda       |09:09:05 | 11-10-2026| watch ep1: 51% (195.13/382.00s)
-[1]Nisda       |09:09:12 | 11-10-2026| watch ep1: 51% (195.13/382.00s)
-[1]Nisda       |09:09:20 | 11-10-2026| watch ep1: 51% (195.13/382.00s)
-[1]Nisda       |09:09:30 | 11-10-2026| watch ep1: 51% (195.13/382.00s)
-[1]Nisda       |09:09:40 | 11-10-2026| watch ep1: 51% (197.02/382.00s)
-[1]Nisda       |09:09:46 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:09:53 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:10:00 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:10:06 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:10:12 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:10:22 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:10:28 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:10:35 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:10:41 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:10:51 | 11-10-2026| watch ep1: 51% (197.22/382.00s)
-[1]Nisda       |09:11:00 | 11-10-2026| watch ep1: 51% (197.32/382.00s)
-[1]Nisda       |09:11:07 | 11-10-2026| watch ep1: 51% (197.89/382.00s)
-[1]Nisda       |09:11:16 | 11-10-2026| watch ep1: 51% (197.89/382.00s)
-[1]Nisda       |09:11:22 | 11-10-2026| watch ep1: 52% (200.59/382.00s)
-[1]Nisda       |09:11:30 | 11-10-2026| watch ep1: 54% (206.49/382.00s)
-[1]Nisda       |09:11:37 | 11-10-2026| watch ep1: 55% (213.04/382.00s)
-[1]Nisda       |09:11:44 | 11-10-2026| watch ep1: 57% (219.38/382.00s)
-[1]Nisda       |09:11:51 | 11-10-2026| watch ep1: 59% (225.60/382.00s)
-[1]Nisda       |09:11:57 | 11-10-2026| watch ep1: 60% (231.71/382.00s)
-[1]Nisda       |09:12:04 | 11-10-2026| watch ep1: 62% (237.79/382.00s)
-[1]Nisda       |09:12:10 | 11-10-2026| watch ep1: 63% (243.49/382.00s)
-[1]Nisda       |09:12:17 | 11-10-2026| watch ep1: 65% (249.43/382.00s)
-[1]Nisda       |09:12:23 | 11-10-2026| watch ep1: 66% (255.55/382.00s)
-[1]Nisda       |09:12:30 | 11-10-2026| watch ep1: 68% (261.21/382.00s)
-[1]Nisda       |09:12:36 | 11-10-2026| watch ep1: 69% (266.95/382.00s)
-[1]Nisda       |09:12:45 | 11-10-2026| watch ep1: 71% (272.95/382.00s)
-[1]Nisda       |09:12:51 | 11-10-2026| watch ep1: 73% (279.36/382.00s)
-[1]Nisda       |09:13:00 | 11-10-2026| watch ep1: 74% (285.15/382.00s)
-[1]Nisda       |09:13:07 | 11-10-2026| watch ep1: 76% (292.28/382.00s)
-[1]Nisda       |09:13:14 | 11-10-2026| watch ep1: 78% (298.55/382.00s)
-[1]Nisda       |09:13:20 | 11-10-2026| watch ep1: 79% (304.18/382.00s)
-[1]Nisda       |09:13:27 | 11-10-2026| watch ep1: 81% (309.80/382.00s)
-[1]Nisda       |09:13:33 | 11-10-2026| watch ep1: 82% (315.94/382.00s)
-[1]Nisda       |09:13:39 | 11-10-2026| watch ep1: 84% (321.57/382.00s)
-[1]Nisda       |09:13:46 | 11-10-2026| watch ep1: 85% (327.21/382.00s)
-[1]Nisda       |09:13:56 | 11-10-2026| watch ep1: 87% (333.41/382.00s)
-[1]Nisda       |09:14:05 | 11-10-2026| watch ep1: 89% (342.47/382.00s)
-[1]Nisda       |09:14:13 | 11-10-2026| watch ep1: 91% (350.56/382.00s)
-[1]Nisda       |09:14:13 | 11-10-2026| watch ep1: COMPLETED (350.56/382.00s)
-[1]Nisda       |09:14:18 | 11-10-2026| watch [4/5] farming ep2...
-[1]Nisda       |09:14:21 | 11-10-2026| watch ep2: mulai dari 0 (record 148.7s diabaikan)
-[1]Nisda       |09:14:23 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:14:30 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:14:37 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:14:44 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:14:52 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:14:58 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:15:05 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:15:12 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:15:22 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:15:32 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:15:39 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:15:45 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:15:54 | 11-10-2026| watch ep2: 36% (148.66/406.00s)
-[1]Nisda       |09:16:01 | 11-10-2026| watch ep2: 38% (155.55/406.00s)
-[1]Nisda       |09:16:09 | 11-10-2026| watch ep2: 39% (159.02/406.00s)
-[1]Nisda       |09:16:17 | 11-10-2026| watch ep2: 39% (159.02/406.00s)
-[1]Nisda       |09:16:23 | 11-10-2026| watch ep2: 39% (159.02/406.00s)
-[1]Nisda       |09:16:31 | 11-10-2026| watch ep2: 39% (160.69/406.00s)
-[1]Nisda       |09:16:37 | 11-10-2026| watch ep2: 39% (160.69/406.00s)
-[1]Nisda       |09:16:44 | 11-10-2026| watch ep2: 39% (160.69/406.00s)
-[1]Nisda       |09:16:53 | 11-10-2026| watch ep2: 39% (160.69/406.00s)
-[1]Nisda       |09:17:01 | 11-10-2026| watch ep2: 39% (160.69/406.00s)
-[1]Nisda       |09:17:08 | 11-10-2026| watch ep2: 39% (162.13/406.00s)
-[1]Nisda       |09:17:18 | 11-10-2026| watch ep2: 39% (162.13/406.00s)
-[1]Nisda       |09:17:26 | 11-10-2026| watch ep2: 40% (163.57/406.00s)
-[1]Nisda       |09:17:32 | 11-10-2026| watch ep2: 41% (170.14/406.00s)
-[1]Nisda       |09:17:38 | 11-10-2026| watch ep2: 43% (175.78/406.00s)
-[1]Nisda       |09:17:46 | 11-10-2026| watch ep2: 44% (181.67/406.00s)
-[1]Nisda       |09:17:52 | 11-10-2026| watch ep2: 46% (188.00/406.00s)
-[1]Nisda       |09:18:00 | 11-10-2026| watch ep2: 47% (194.18/406.00s)
-[1]Nisda       |09:18:08 | 11-10-2026| watch ep2: 49% (200.73/406.00s)
-[1]Nisda       |09:18:16 | 11-10-2026| watch ep2: 51% (207.46/406.00s)
-[1]Nisda       |09:18:23 | 11-10-2026| watch ep2: 52% (213.97/406.00s)
-[1]Nisda       |09:18:30 | 11-10-2026| watch ep2: 54% (220.19/406.00s)
-[1]Nisda       |09:18:36 | 11-10-2026| watch ep2: 55% (226.28/406.00s)
-[1]Nisda       |09:18:44 | 11-10-2026| watch ep2: 57% (231.91/406.00s)
-[1]Nisda       |09:18:51 | 11-10-2026| watch ep2: 58% (239.15/406.00s)
-[1]Nisda       |09:18:58 | 11-10-2026| watch ep2: 60% (244.99/406.00s)
-[1]Nisda       |09:19:04 | 11-10-2026| watch ep2: 61% (251.03/406.00s)
-[1]Nisda       |09:19:11 | 11-10-2026| watch ep2: 63% (256.61/406.00s)
-[1]Nisda       |09:19:17 | 11-10-2026| watch ep2: 64% (262.66/406.00s)
-[1]Nisda       |09:19:25 | 11-10-2026| watch ep2: 66% (268.88/406.00s)
-[1]Nisda       |09:19:31 | 11-10-2026| watch ep2: 67% (275.29/406.00s)
-[1]Nisda       |09:19:38 | 11-10-2026| watch ep2: 69% (280.92/406.00s)
-[1]Nisda       |09:19:45 | 11-10-2026| watch ep2: 70% (287.52/406.00s)
-[1]Nisda       |09:19:53 | 11-10-2026| watch ep2: 72% (293.55/406.00s)
-[1]Nisda       |09:20:01 | 11-10-2026| watch ep2: 74% (300.69/406.00s)
-[1]Nisda       |09:20:08 | 11-10-2026| watch ep2: 75% (307.61/406.00s)
-[1]Nisda       |09:20:16 | 11-10-2026| watch ep2: 77% (313.85/406.00s)
-[1]Nisda       |09:20:23 | 11-10-2026| watch ep2: 78% (320.45/406.00s)
-[1]Nisda       |09:20:30 | 11-10-2026| watch ep2: 80% (326.78/406.00s)
-[1]Nisda       |09:20:39 | 11-10-2026| watch ep2: 81% (332.58/406.00s)
-[1]Nisda       |09:20:46 | 11-10-2026| watch ep2: 83% (339.56/406.00s)
-[1]Nisda       |09:20:55 | 11-10-2026| watch ep2: 85% (345.87/406.00s)
-[1]Nisda       |09:21:05 | 11-10-2026| watch ep2: 87% (354.42/406.00s)
-[1]Nisda       |09:21:15 | 11-10-2026| watch ep2: 89% (363.04/406.00s)
-[1]Nisda       |09:21:23 | 11-10-2026| watch ep2: 91% (371.32/406.00s)
-[1]Nisda       |09:21:23 | 11-10-2026| watch ep2: COMPLETED (371.32/406.00s)
-[1]Nisda       |09:21:28 | 11-10-2026| watch [5/5] farming ep3...
-[1]Nisda       |09:21:30 | 11-10-2026| watch ep3: mulai dari 0 (record 118.1s diabaikan)
-[1]Nisda       |09:21:31 | 11-10-2026| watch ep3: 32% (118.11/362.00s)
-[1]Nisda       |09:21:38 | 11-10-2026| watch ep3: 32% (118.20/362.00s)
-[1]Nisda       |09:21:46 | 11-10-2026| watch ep3: 32% (118.20/362.00s)
-[1]Nisda       |09:21:53 | 11-10-2026| watch ep3: 32% (118.20/362.00s)
-[1]Nisda       |09:22:01 | 11-10-2026| watch ep3: 32% (118.20/362.00s)
-[1]Nisda       |09:22:13 | 11-10-2026| watch ep3: 32% (118.20/362.00s)
-[1]Nisda       |09:22:22 | 11-10-2026| watch ep3: 34% (125.57/362.00s)
-[1]Nisda       |09:22:30 | 11-10-2026| watch ep3: 35% (128.93/362.00s)
-[1]Nisda       |09:22:38 | 11-10-2026| watch ep3: 35% (128.93/362.00s)
-[1]Nisda       |09:22:45 | 11-10-2026| watch ep3: 35% (128.93/362.00s)
-[1]Nisda       |09:22:51 | 11-10-2026| watch ep3: 35% (128.93/362.00s)
-[1]Nisda       |09:23:01 | 11-10-2026| watch ep3: 35% (129.15/362.00s)
-[1]Nisda       |09:23:11 | 11-10-2026| watch ep3: 35% (129.81/362.00s)
-[1]Nisda       |09:23:17 | 11-10-2026| watch ep3: 35% (129.81/362.00s)
-[1]Nisda       |09:23:24 | 11-10-2026| watch ep3: 35% (130.13/362.00s)
-[1]Nisda       |09:23:30 | 11-10-2026| watch ep3: 35% (130.13/362.00s)
-[1]Nisda       |09:23:37 | 11-10-2026| watch ep3: 35% (130.13/362.00s)
-[1]Nisda       |09:23:44 | 11-10-2026| watch ep3: 35% (130.13/362.00s)
-[1]Nisda       |09:23:53 | 11-10-2026| watch ep3: 35% (130.13/362.00s)
-[1]Nisda       |09:24:00 | 11-10-2026| watch ep3: 36% (133.57/362.00s)
-[1]Nisda       |09:24:07 | 11-10-2026| watch ep3: 38% (139.48/362.00s)
-[1]Nisda       |09:24:14 | 11-10-2026| watch ep3: 40% (145.93/362.00s)
-[1]Nisda       |09:24:21 | 11-10-2026| watch ep3: 42% (152.62/362.00s)
-[1]Nisda       |09:24:28 | 11-10-2026| watch ep3: 43% (158.85/362.00s)
-[1]Nisda       |09:24:34 | 11-10-2026| watch ep3: 45% (164.49/362.00s)
-[1]Nisda       |09:24:41 | 11-10-2026| watch ep3: 47% (170.22/362.00s)
-[1]Nisda       |09:24:47 | 11-10-2026| watch ep3: 48% (176.58/362.00s)
-[1]Nisda       |09:24:54 | 11-10-2026| watch ep3: 50% (182.29/362.00s)
-[1]Nisda       |09:25:01 | 11-10-2026| watch ep3: 51% (187.97/362.00s)
-[1]Nisda       |09:25:08 | 11-10-2026| watch ep3: 53% (194.39/362.00s)
-[1]Nisda       |09:25:14 | 11-10-2026| watch ep3: 55% (200.45/362.00s)
-[1]Nisda       |09:25:21 | 11-10-2026| watch ep3: 57% (206.65/362.00s)
-[1]Nisda       |09:25:30 | 11-10-2026| watch ep3: 58% (212.39/362.00s)
-[1]Nisda       |09:25:36 | 11-10-2026| watch ep3: 60% (219.15/362.00s)
-[1]Nisda       |09:25:42 | 11-10-2026| watch ep3: 62% (224.75/362.00s)
-[1]Nisda       |09:25:49 | 11-10-2026| watch ep3: 63% (230.48/362.00s)
-[1]Nisda       |09:25:58 | 11-10-2026| watch ep3: 65% (236.11/362.00s)
-[1]Nisda       |09:26:04 | 11-10-2026| watch ep3: 67% (242.93/362.00s)
-[1]Nisda       |09:26:12 | 11-10-2026| watch ep3: 68% (248.58/362.00s)
-[1]Nisda       |09:26:19 | 11-10-2026| watch ep3: 70% (255.36/362.00s)
-[1]Nisda       |09:26:27 | 11-10-2026| watch ep3: 72% (261.52/362.00s)
-[1]Nisda       |09:26:33 | 11-10-2026| watch ep3: 73% (267.82/362.00s)
-[1]Nisda       |09:26:39 | 11-10-2026| watch ep3: 75% (273.43/362.00s)
-[1]Nisda       |09:26:47 | 11-10-2026| watch ep3: 77% (279.06/362.00s)
-[1]Nisda       |09:26:55 | 11-10-2026| watch ep3: 78% (285.67/362.00s)
-[1]Nisda       |09:27:02 | 11-10-2026| watch ep3: 80% (292.86/362.00s)
-[1]Nisda       |09:27:08 | 11-10-2026| watch ep3: 82% (299.11/362.00s)
-[1]Nisda       |09:27:15 | 11-10-2026| watch ep3: 84% (304.86/362.00s)
-[1]Nisda       |09:27:22 | 11-10-2026| watch ep3: 85% (310.50/362.00s)
-[1]Nisda       |09:27:30 | 11-10-2026| watch ep3: 87% (317.46/362.00s)
-[1]Nisda       |09:27:37 | 11-10-2026| watch ep3: 89% (324.00/362.00s)
-[1]Nisda       |09:27:45 | 11-10-2026| watch ep3: 91% (330.34/362.00s)
-[1]Nisda       |09:27:45 | 11-10-2026| watch ep3: COMPLETED (330.34/362.00s)
+[1]Nisda       |12:58:21 | 12-10-2026| watch: 1 video belum completed: smart-pocket-official-trailer
+[1]Nisda       |12:58:21 | 12-10-2026| watch [1/1] farming smart-pocket-official-trailer...
+[1]Nisda       |12:58:22 | 12-10-2026| watch smart-pocket-official-trailer: mulai dari 0 (record 18.5s diabaikan)
+[1]Nisda       |12:58:23 | 12-10-2026| watch smart-pocket-official-trailer: 44% (18.53/42.00s)
+[1]Nisda       |12:58:29 | 12-10-2026| watch smart-pocket-official-trailer: 44% (18.53/42.00s)
+[1]Nisda       |12:58:35 | 12-10-2026| watch smart-pocket-official-trailer: 44% (18.53/42.00s)
+[1]Nisda       |12:58:42 | 12-10-2026| watch smart-pocket-official-trailer: 44% (18.53/42.00s)
+[1]Nisda       |12:58:48 | 12-10-2026| watch smart-pocket-official-trailer: 52% (21.98/42.00s)
+[1]Nisda       |12:58:54 | 12-10-2026| watch smart-pocket-official-trailer: 65% (27.45/42.00s)
+[1]Nisda       |12:59:00 | 12-10-2026| watch smart-pocket-official-trailer: 78% (32.99/42.00s)
+[1]Nisda       |12:59:06 | 12-10-2026| watch smart-pocket-official-trailer: 91% (38.46/42.00s)
+[1]Nisda       |12:59:06 | 12-10-2026| watch smart-pocket-official-trailer: COMPLETED (38.46/42.00s)
 --> [1]Nisda menjalankan: Read Article
-[1]Nisda       |09:27:46 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Nisda       |09:27:47 | 11-10-2026| mint eligibility: {"userId":"2010880848552505344","youtube":{"url":"https://www.youtube.com/@nisdamilana","status":"submitted","revision":"353946d3-6915-41cf-9d3f-8d2a2351b4b9","submittedAt":1791684523,"reviewedAt":179
-[1]Nisda       |09:27:47 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Nisda       |12:59:08 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Nisda       |12:59:08 | 12-10-2026| mint eligibility: {"userId":"2010880848552505344","youtube":{"url":"https://www.youtube.com/@nisdamilana","status":"submitted","revision":"353946d3-6915-41cf-9d3f-8d2a2351b4b9","submittedAt":1791684523,"reviewedAt":179
+[1]Nisda       |12:59:08 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Nisda menjalankan: Quiz Anime
-[1]Nisda       |09:27:50 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
-[1]Nisda       |09:27:55 | 11-10-2026| quiz ep2: BENAR (1) +10 poin
-[1]Nisda       |09:28:00 | 11-10-2026| quiz ep3: BENAR (2) +10 poin
-[1]Nisda       |09:28:03 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Nisda       |09:28:03 | 11-10-2026| quiz ep5: sudah dijawab
-[1]Nisda       |09:28:03 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Nisda       |12:59:09 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Nisda       |12:59:09 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Nisda       |12:59:09 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Nisda       |12:59:09 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Nisda       |12:59:09 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Nisda       |12:59:09 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Nisda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nisda       |09:28:07 | 11-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nisda       |09:28:07 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Nisda       |09:28:07 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nisda       |09:28:07 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nisda       |12:59:12 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nisda       |12:59:13 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisda       |12:59:13 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisda       |12:59:13 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisda menjalankan: Claim Missions
-[1]Nisda       |09:28:10 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Nisda       |09:28:10 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nisda       |09:28:10 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nisda       |12:59:13 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisda       |12:59:13 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisda       |12:59:13 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisda menjalankan: Check Eligibility
 
 --- eligibility [1]Nisda ---
-  @nisdamilana | score=830 rank=6935
-  tasks    [###################-] 73/76
+  @nisdamilana | score=880 rank=6993
+  tasks    [##################--] 70/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 17/17
+  watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Nisda menjalankan: Read Manga
-[1]Nisda       |09:28:16 | 11-10-2026| manga: 1/13 chapter belum completed
-[1]Nisda       |09:28:16 | 11-10-2026| manga [1/1] membaca ch.3 (17 hal)...
-[1]Nisda       |09:28:22 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 115s
-[1]Nisda       |09:28:27 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 120s
-[1]Nisda       |09:28:31 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 124s
-[1]Nisda       |09:28:36 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 129s
-[1]Nisda       |09:28:40 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 133s
-[1]Nisda       |09:28:46 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 138s
-[1]Nisda       |09:28:52 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 143s
-[1]Nisda       |09:28:57 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 149s
-[1]Nisda       |09:29:02 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 154s
-[1]Nisda       |09:29:07 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 160s
-[1]Nisda       |09:29:12 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 165s
-[1]Nisda       |09:29:17 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 169s
-[1]Nisda       |09:29:22 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 175s
-[1]Nisda       |09:29:27 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 179s
-[1]Nisda       |09:29:32 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 185s
-[1]Nisda       |09:29:38 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 190s
-[1]Nisda       |09:29:43 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 195s
-[1]Nisda       |09:29:43 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Nisda       |12:59:18 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nisda menjalankan: Get Gift
-[1]Nisda       |09:29:47 | 11-10-2026| gift: 0/3 belum diterima
+[1]Nisda       |12:59:18 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Nisda menjalankan: Setup Profile
-[1]Nisda       |09:29:48 | 11-10-2026| profile: bio="https://x.com/nisdamilana" fav=yuki rewardAt=1791694759
-[1]Nisda       |09:29:48 | 11-10-2026| profile: bonus sudah diklaim, skip
+[1]Nisda       |12:59:19 | 12-10-2026| profile: bio="https://x.com/nisdamilana" fav=yuki rewardAt=1791694759
+[1]Nisda       |12:59:19 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nisda menjalankan: Bind Wallet
-[1]Nisda       |09:29:48 | 11-10-2026| wallet: sudah terikat 7ckppP7Mtp... (solana)
+[1]Nisda       |12:59:19 | 12-10-2026| wallet: sudah terikat 7ckppP7Mtp... (solana)
 
 == RINGKASAN ==
-- Nisda: daily=already | tasks OK 2/4 | misi klaim 0 (+0pt) | kuis benar 6 (+30pt) | watch 4/5 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 1/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Nisda: daily=claimed | tasks OK 9/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
