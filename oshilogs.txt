@@ -12,53 +12,65 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nisda =====
-[1]Nisda       |08:51:52 | 25-10-2026| login OK @nisdamilana | score=1900 rank=4295
-[1]Nisda       |08:51:52 | 25-10-2026| serverTime=2026-10-25T08:51:51.000Z local=2026-10-25T08:51:52.156Z
+[1]Nisda       |09:33:11 | 26-10-2026| login OK @nisdamilana | score=1920 rank=4238
+[1]Nisda       |09:33:11 | 26-10-2026| serverTime=2026-10-26T09:33:11.000Z local=2026-10-26T09:33:11.846Z
 --> [1]Nisda menjalankan: Claim Daily
-[1]Nisda       |08:51:53 | 25-10-2026| daily: OK +10 poin score=1910
---> [1]Nisda menjalankan: Auto All Tasks (1 pending)
-[1]Nisda       |08:51:54 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211423827431117 | proof=https://x.com/nisdamilana/status/2114278452245856123
-[1]Nisda       |08:51:54 | 25-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nisda       |08:51:56 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114238274311176 | proof=https://x.com/nisdamilana/status/2114278383659212446
+[1]Nisda       |09:33:12 | 26-10-2026| daily: OK +10 poin score=1930
+--> [1]Nisda menjalankan: Auto All Tasks (7 pending)
+[1]Nisda       |09:33:15 | 26-10-2026| [1/7] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/nisdamilana/status/2114651070115498410
+[1]Nisda       |09:33:15 | 26-10-2026| delay 10s...
+[1]Nisda       |09:33:27 | 26-10-2026| [2/7] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/nisdamilana/status/2114651331477246298
+[1]Nisda       |09:33:27 | 26-10-2026| delay 10s...
+[1]Nisda       |09:33:39 | 26-10-2026| [3/7] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/nisdamilana/status/2114651188646116691
+[1]Nisda       |09:33:39 | 26-10-2026| delay 10s...
+[1]Nisda       |09:33:51 | 26-10-2026| [4/7] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/nisdamilana/status/2114651241468658651
+[1]Nisda       |09:33:51 | 26-10-2026| delay 10s...
+[1]Nisda       |09:34:03 | 26-10-2026| [5/7] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/nisdamilana/status/2114651149024737070
+[1]Nisda       |09:34:03 | 26-10-2026| delay 10s...
+[1]Nisda       |09:34:16 | 26-10-2026| [6/7] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/nisdamilana/status/2114651447860807121
+[1]Nisda       |09:34:16 | 26-10-2026| delay 10s...
+[1]Nisda       |09:34:27 | 26-10-2026| [7/7] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/nisdamilana/status/2114651297348865384
+[1]Nisda       |09:34:27 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nisda       |09:34:29 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/nisdamilana/status/2114651485598414395
 --> [1]Nisda menjalankan: Watch Anime
-[1]Nisda       |08:51:57 | 25-10-2026| watch: semua video sudah completed
+[1]Nisda       |09:34:30 | 26-10-2026| watch: semua video sudah completed
 --> [1]Nisda menjalankan: Read Article
-[1]Nisda       |08:51:58 | 25-10-2026| news: 30/30 artikel selesai dibaca
-[1]Nisda       |08:51:59 | 25-10-2026| mint eligibility: {"userId":"2010880848552505344","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nisdamilana","status":"submitted","revision":"353946d3-6915-41cf-9d3f-8d2a2351b4
-[1]Nisda       |08:51:59 | 25-10-2026| news: semua artikel sudah dibaca
+[1]Nisda       |09:34:31 | 26-10-2026| news: 30/30 artikel selesai dibaca
+[1]Nisda       |09:34:32 | 26-10-2026| mint eligibility: {"userId":"2010880848552505344","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nisdamilana","status":"submitted","revision":"353946d3-6915-41cf-9d3f-8d2a2351b4
+[1]Nisda       |09:34:32 | 26-10-2026| news: semua artikel sudah dibaca
 --> [1]Nisda menjalankan: Quiz Anime
 --> [1]Nisda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nisda       |08:52:00 | 25-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nisda       |08:52:01 | 25-10-2026| mission music-listens-10: sudah diklaim
-[1]Nisda       |08:52:01 | 25-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nisda       |08:52:01 | 25-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nisda       |09:34:35 | 26-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nisda       |09:34:35 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisda       |09:34:35 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisda       |09:34:35 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisda menjalankan: Claim Missions
-[1]Nisda       |08:52:01 | 25-10-2026| mission music-listens-10: sudah diklaim
-[1]Nisda       |08:52:01 | 25-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nisda       |08:52:01 | 25-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nisda       |09:34:36 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisda       |09:34:36 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisda       |09:34:36 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisda menjalankan: Check Eligibility
 
 --- eligibility [1]Nisda ---
-  @nisdamilana | score=1900 rank=4295
-  tasks    [--------------------] 0/1
+  @nisdamilana | score=1920 rank=4238
+  tasks    [###-----------------] 1/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
-  music    [####################] 11/11
+  music    [##################--] 11/12
   artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Nisda menjalankan: Read Manga
-[1]Nisda       |08:52:05 | 25-10-2026| manga: 0/13 chapter belum completed
+[1]Nisda       |09:34:40 | 26-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nisda menjalankan: Get Gift
-[1]Nisda       |08:52:05 | 25-10-2026| gift: 0/4 belum diterima
+[1]Nisda       |09:34:40 | 26-10-2026| gift: 0/4 belum diterima
 --> [1]Nisda menjalankan: Setup Profile
-[1]Nisda       |08:52:05 | 25-10-2026| profile: bio="https://x.com/nisdamilana" fav=yuki rewardAt=1791694759
-[1]Nisda       |08:52:05 | 25-10-2026| profile: bonus sudah diklaim, skip
+[1]Nisda       |09:34:41 | 26-10-2026| profile: bio="https://x.com/nisdamilana" fav=yuki rewardAt=1791694759
+[1]Nisda       |09:34:41 | 26-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nisda menjalankan: Bind Wallet
-[1]Nisda       |08:52:06 | 25-10-2026| wallet: sudah terikat 7ckppP7Mtp... (solana)
+[1]Nisda       |09:34:41 | 26-10-2026| wallet: sudah terikat 7ckppP7Mtp... (solana)
 
 == RINGKASAN ==
-- Nisda: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nisda: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
