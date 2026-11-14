@@ -12,35 +12,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nisda =====
-[1]Nisda       |10:08:52 | 13-11-2026| login OK @nisdamilana | score=3000 rank=2669
-[1]Nisda       |10:08:52 | 13-11-2026| serverTime=2026-11-13T10:08:52.000Z local=2026-11-13T10:08:52.875Z
+[1]Nisda       |09:33:18 | 14-11-2026| login OK @nisdamilana | score=3020 rank=2653
+[1]Nisda       |09:33:18 | 14-11-2026| serverTime=2026-11-14T09:33:17.000Z local=2026-11-14T09:33:18.170Z
 --> [1]Nisda menjalankan: Claim Daily
-[1]Nisda       |10:08:54 | 13-11-2026| daily: OK +10 poin score=3010
---> [1]Nisda menjalankan: Auto All Tasks (1 pending)
-[1]Nisda       |10:08:56 | 13-11-2026| [1/1] 46cdb22f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"46cdb22f-506b-44fe-9523-edfbb065e670","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212105520571029 | proof=https://x.com/nisdamilana/status/2121183093088558250
-[1]Nisda       |10:08:56 | 13-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nisda       |10:08:57 | 13-11-2026| [1/1] 46cdb22f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"46cdb22f-506b-44fe-9523-edfbb065e670","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121055205710295 | proof=https://x.com/nisdamilana/status/2121183181009041008
+[1]Nisda       |09:33:20 | 14-11-2026| daily: OK +10 poin score=3030
+--> [1]Nisda menjalankan: Auto All Tasks (3 pending)
+[1]Nisda       |09:33:22 | 14-11-2026| [1/3] a251b9cc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"a251b9cc-38da-4ac5-91ed-895b293eef66","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212153557215422 | proof=https://x.com/nisdamilana/status/2121536687420401349
+[1]Nisda       |09:33:22 | 14-11-2026| delay 10s...
+[1]Nisda       |09:33:34 | 14-11-2026| [2/3] f5a65410 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"a251b9cc-38da-4ac5-91ed-895b293eef66","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212153557215422 | proof=https://x.com/nisdamilana/status/2121536654133473859
+[1]Nisda       |09:33:34 | 14-11-2026| delay 10s...
+[1]Nisda       |09:33:46 | 14-11-2026| [3/3] 2402ea04 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/nisdamilana/status/2121536550792633955
+[1]Nisda       |09:33:46 | 14-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nisda       |09:33:49 | 14-11-2026| [1/1] a251b9cc (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/nisdamilana/status/2121536564172630807
 --> [1]Nisda menjalankan: Watch Anime
-[1]Nisda       |10:08:58 | 13-11-2026| watch: semua video sudah completed
+[1]Nisda       |09:33:51 | 14-11-2026| watch: semua video sudah completed
 --> [1]Nisda menjalankan: Read Article
-[1]Nisda       |10:09:00 | 13-11-2026| news: 34/34 artikel selesai dibaca
-[1]Nisda       |10:09:00 | 13-11-2026| mint eligibility: {"userId":"2010880848552505344","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nisdamilana","status":"submitted","revision":"353946d3-6915-41cf-9d3f-8d2a2351b4
-[1]Nisda       |10:09:00 | 13-11-2026| news: semua artikel sudah dibaca
+[1]Nisda       |09:33:52 | 14-11-2026| news: 34/34 artikel selesai dibaca
+[1]Nisda       |09:33:53 | 14-11-2026| mint eligibility: {"userId":"2010880848552505344","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nisdamilana","status":"submitted","revision":"353946d3-6915-41cf-9d3f-8d2a2351b4
+[1]Nisda       |09:33:53 | 14-11-2026| news: semua artikel sudah dibaca
 --> [1]Nisda menjalankan: Quiz Anime
 --> [1]Nisda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nisda       |10:09:03 | 13-11-2026| music: kedua misi sudah tercapai, stop
-[1]Nisda       |10:09:04 | 13-11-2026| mission music-listens-10: sudah diklaim
-[1]Nisda       |10:09:04 | 13-11-2026| mission music-minutes-30: sudah diklaim
-[1]Nisda       |10:09:04 | 13-11-2026| mission anime-completed-3: sudah diklaim
+[1]Nisda       |09:33:55 | 14-11-2026| music: kedua misi sudah tercapai, stop
+[1]Nisda       |09:33:56 | 14-11-2026| mission music-listens-10: sudah diklaim
+[1]Nisda       |09:33:56 | 14-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nisda       |09:33:56 | 14-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisda menjalankan: Claim Missions
-[1]Nisda       |10:09:04 | 13-11-2026| mission music-listens-10: sudah diklaim
-[1]Nisda       |10:09:04 | 13-11-2026| mission music-minutes-30: sudah diklaim
-[1]Nisda       |10:09:04 | 13-11-2026| mission anime-completed-3: sudah diklaim
+[1]Nisda       |09:33:56 | 14-11-2026| mission music-listens-10: sudah diklaim
+[1]Nisda       |09:33:56 | 14-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nisda       |09:33:56 | 14-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisda menjalankan: Check Eligibility
 
 --- eligibility [1]Nisda ---
-  @nisdamilana | score=3000 rank=2669
-  tasks    [#############-------] 2/3
+  @nisdamilana | score=3020 rank=2653
+  tasks    [#####---------------] 1/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +55,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Nisda menjalankan: Read Manga
-[1]Nisda       |10:09:08 | 13-11-2026| manga: 0/13 chapter belum completed
+[1]Nisda       |09:34:01 | 14-11-2026| manga: 0/13 chapter belum completed
 --> [1]Nisda menjalankan: Get Gift
-[1]Nisda       |10:09:09 | 13-11-2026| gift: 3/12 belum diterima
-[1]Nisda       |10:09:10 | 13-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Nisda       |10:09:13 | 13-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Nisda       |10:09:15 | 13-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nisda       |09:34:02 | 14-11-2026| gift: 3/12 belum diterima
+[1]Nisda       |09:34:04 | 14-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nisda       |09:34:07 | 14-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nisda       |09:34:10 | 14-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Nisda menjalankan: Setup Profile
-[1]Nisda       |10:09:18 | 13-11-2026| profile: bio="https://x.com/nisdamilana" fav=yuki rewardAt=1791694759
-[1]Nisda       |10:09:18 | 13-11-2026| profile: bonus sudah diklaim, skip
+[1]Nisda       |09:34:12 | 14-11-2026| profile: bio="https://x.com/nisdamilana" fav=yuki rewardAt=1791694759
+[1]Nisda       |09:34:12 | 14-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Nisda menjalankan: Bind Wallet
-[1]Nisda       |10:09:18 | 13-11-2026| wallet: sudah terikat 7ckppP7Mtp... (solana)
+[1]Nisda       |09:34:13 | 14-11-2026| wallet: sudah terikat 7ckppP7Mtp... (solana)
 
 == RINGKASAN ==
-- Nisda: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Nisda: daily=claimed | tasks OK 2/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
